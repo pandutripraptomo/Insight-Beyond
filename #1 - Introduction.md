@@ -2,7 +2,6 @@
 
 Data menjadi salah satu komponen terpenting di dunia digital modern. Namun, mengapa data bisa memiliki peran yang begitu besar dalam hampir semua aspek kehidupan kita? Mari kita telusuri dengan pendekatan 5W+1H (What, Why, When, Where, Who, How) untuk memahami lebih dalam tentang data dan perannya di era digital.
 
-![Data Era Digital](https://example.com/path-to-your-image.jpg)
 
 ## **What (Apa Itu Data?)**
 **Data** adalah kumpulan fakta, angka, simbol, atau informasi mentah yang belum diolah atau dianalisis. Data ini dapat berupa angka-angka dari transaksi, teks dalam pesan, gambar atau video yang diambil dari perangkat digital, dan sebagainya. Data muncul dari berbagai aktivitas manusia dalam kehidupan sehari-hari dan memiliki potensi untuk memberikan wawasan yang berharga setelah diproses.
