@@ -1,4 +1,3 @@
-```markdown
 # Apa Itu Data dan Mengapa Data Begitu Penting di Era Digital?
 
 Data menjadi salah satu komponen terpenting di dunia digital modern. Dalam kehidupan sehari-hari, kita sering mendengar kata "data", tetapi mungkin belum sepenuhnya memahami apa yang dimaksud dengan data dan bagaimana data memainkan peran yang sangat penting dalam berbagai aspek kehidupan. Di bawah ini, kita akan membahas lebih dalam mengenai konsep dasar data, jenis-jenisnya, dan mengapa data begitu penting dalam dunia yang semakin didorong oleh teknologi digital.
@@ -74,6 +73,3 @@ Shopee, salah satu platform e-commerce terbesar di Asia Tenggara, menggunakan da
 Era digital telah mengubah cara kita bekerja, berinteraksi, dan membuat keputusan. Data tidak lagi hanya dianggap sebagai "sampah digital", tetapi sebagai aset berharga yang dapat digunakan untuk mendorong inovasi, efisiensi, dan keuntungan kompetitif. Dengan memanfaatkan data, individu dan organisasi dapat membuat keputusan yang lebih tepat, beradaptasi dengan perubahan pasar, dan menghadirkan produk serta layanan yang lebih relevan dan bernilai bagi pelanggan.
 
 Sebagai seorang profesional data, baik itu Data Analyst, Data Scientist, atau posisi lain yang terkait dengan data, memiliki pemahaman mendalam tentang cara mengelola dan menganalisis data adalah keterampilan yang sangat diperlukan di era ini. Data bukan hanya angka, tetapi juga cerita yang menunggu untuk diceritakan dan memberikan wawasan untuk masa depan.
-```
-
-Markdown di atas sudah dipersiapkan untuk diupload di GitHub. Anda bisa menyalin dan menempelkannya ke file `.md` di repositori GitHub Anda.
