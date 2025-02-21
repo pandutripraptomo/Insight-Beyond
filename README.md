@@ -35,7 +35,7 @@ Saya sangat menghargai setiap interaksi dan diskusi. Jangan ragu untuk:
 
 ## Kontribusi
 
-Jika Anda tertarik untuk berkontribusi atau menulis artikel tamu di **Insight & Beyond**, silakan kirimkan email kepada saya di [email@pandutripraptomo.com](mailto:email@pandutripraptomo.com). Saya selalu terbuka untuk kolaborasi dan berbagi pengetahuan.
+Jika Anda tertarik untuk berkontribusi atau menulis artikel tamu di **Insight & Beyond**, silakan kirimkan email kepada saya di [email] @pandutripraptomo@gmail.com](mailto:email@pandutripraptomo@gmail.com). Saya selalu terbuka untuk kolaborasi dan berbagi pengetahuan.
 
 Terima kasih telah mengunjungi **Insight & Beyond**. Semoga artikel-artikel di sini dapat memberikan inspirasi dan wawasan baru bagi perjalanan karier Anda!
 
