@@ -23,7 +23,7 @@ Selamat datang di **Insight & Beyond**, blog yang didedikasikan untuk berbagi pe
 
 ## Tentang Penulis
 
-**Insight & Beyond** ditulis oleh [Nama Anda], seorang Data Analyst di **Bank Rakyat Indonesia**. Dengan pengalaman di bidang data analytics, saya berkomitmen untuk membagikan wawasan yang bermanfaat dan memberikan panduan praktis bagi mereka yang tertarik mengembangkan karier di dunia data.
+**Insight & Beyond** ditulis oleh Pandu Tri Praptomo, seorang Data Analyst. Dengan pengalaman di bidang data analytics, saya berkomitmen untuk membagikan wawasan yang bermanfaat dan memberikan panduan praktis bagi mereka yang tertarik mengembangkan karier di dunia data.
 
 ## Cara Berinteraksi
 
@@ -35,7 +35,7 @@ Saya sangat menghargai setiap interaksi dan diskusi. Jangan ragu untuk:
 
 ## Kontribusi
 
-Jika Anda tertarik untuk berkontribusi atau menulis artikel tamu di **Insight & Beyond**, silakan kirimkan email kepada saya di [email@example.com](mailto:email@example.com). Saya selalu terbuka untuk kolaborasi dan berbagi pengetahuan.
+Jika Anda tertarik untuk berkontribusi atau menulis artikel tamu di **Insight & Beyond**, silakan kirimkan email kepada saya di [email@pandutripraptomo.com](mailto:email@pandutripraptomo.com). Saya selalu terbuka untuk kolaborasi dan berbagi pengetahuan.
 
 Terima kasih telah mengunjungi **Insight & Beyond**. Semoga artikel-artikel di sini dapat memberikan inspirasi dan wawasan baru bagi perjalanan karier Anda!
 
